@@ -1,6 +1,6 @@
 @extends('layouts.layout')
 @section('contents')
-<body class="envato_tk_templates-template envato_tk_templates-template-elementor_canvas single single-envato_tk_templates postid-228 ehf-header ehf-template-hello-elementor ehf-stylesheet-hello-elementor elementor-default elementor-template-canvas elementor-kit-30 elementor-page elementor-page-228">
+    <body class="envato_tk_templates-template envato_tk_templates-template-elementor_canvas single single-envato_tk_templates postid-228 ehf-header ehf-template-hello-elementor ehf-stylesheet-hello-elementor elementor-default elementor-template-canvas elementor-kit-30 elementor-page elementor-page-228">
 			<header id="masthead" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
 			{{-- <p class="main-title bhf-hidden" itemprop="headline"><a href="https://kits.pixel-show.com/careerster" title="Careerster" rel="home">Careerster</a></p> --}}
 					<div data-elementor-type="wp-post" data-elementor-id="453" class="elementor elementor-453" data-elementor-settings="[]">
@@ -1215,10 +1215,8 @@
 				<div class="elementor-element elementor-element-60959f73 elementor-widget elementor-widget-image" data-id="60959f73" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-image">
-										{{-- <img width="800" height="684" src="/assets/images/a-portrait-of-caucasian-man-PWZQSFA-1024x876.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://kits.pixel-show.com/careerster/wp-content/uploads/sites/4/2020/03/a-portrait-of-caucasian-man-PWZQSFA-1024x876.jpg 1024w, https://kits.pixel-show.com/careerster/wp-content/uploads/sites/4/2020/03/a-portrait-of-caucasian-man-PWZQSFA-300x257.jpg 300w, https://kits.pixel-show.com/careerster/wp-content/uploads/sites/4/2020/03/a-portrait-of-caucasian-man-PWZQSFA-768x657.jpg 768w, https://kits.pixel-show.com/careerster/wp-content/uploads/sites/4/2020/03/a-portrait-of-caucasian-man-PWZQSFA-600x513.jpg 600w, https://kits.pixel-show.com/careerster/wp-content/uploads/sites/4/2020/03/a-portrait-of-caucasian-man-PWZQSFA.jpg 1092w" sizes="(max-width: 800px) 100vw, 800px" />											</div> --}}
-                						<img width="800" height="684" src="/assets/images/a-portrait-of-caucasian-man-PWZQSFA-1024x876.jpg" class="attachment-large size-large" alt="" loading="lazy" />											</div>
-                
-                                    </div>
+										<img width="800" height="684" src="/assets/images/a-portrait-of-caucasian-man-PWZQSFA-1024x876.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://kits.pixel-show.com/careerster/wp-content/uploads/sites/4/2020/03/a-portrait-of-caucasian-man-PWZQSFA-1024x876.jpg 1024w, https://kits.pixel-show.com/careerster/wp-content/uploads/sites/4/2020/03/a-portrait-of-caucasian-man-PWZQSFA-300x257.jpg 300w, https://kits.pixel-show.com/careerster/wp-content/uploads/sites/4/2020/03/a-portrait-of-caucasian-man-PWZQSFA-768x657.jpg 768w, https://kits.pixel-show.com/careerster/wp-content/uploads/sites/4/2020/03/a-portrait-of-caucasian-man-PWZQSFA-600x513.jpg 600w, https://kits.pixel-show.com/careerster/wp-content/uploads/sites/4/2020/03/a-portrait-of-caucasian-man-PWZQSFA.jpg 1092w" sizes="(max-width: 800px) 100vw, 800px" />											</div>
+				</div>
 				</div>
 				<section class="elementor-element elementor-element-630bb83a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="630bb83a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
@@ -1231,19 +1229,19 @@
 					<div class="elementor-social-icons-wrapper">
 							<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-567f735" href="#" target="_blank">
 					<span class="elementor-screen-only">Linkedin</span>
-					<i class="fa fa-linkedin"></i>				</a>
+					<i class="fab fa-linkedin"></i>				</a>
 							<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-ac5bdd1" href="#" target="_blank">
 					<span class="elementor-screen-only">Facebook</span>
-					<i class="fa fa-facebook"></i>				</a>
+					<i class="fab fa-facebook"></i>				</a>
 							<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-3390259" href="#" target="_blank">
 					<span class="elementor-screen-only">Twitter</span>
-					<i class="fa fa-twitter"></i>				</a>
+					<i class="fab fa-twitter"></i>				</a>
 							<a class="elementor-icon elementor-social-icon elementor-social-icon-github elementor-repeater-item-adbfe90" href="#" target="_blank">
 					<span class="elementor-screen-only">Github</span>
-					<i class="fa fa-github"></i>				</a>
+					<i class="fab fa-github"></i>				</a>
 							<a class="elementor-icon elementor-social-icon elementor-social-icon-codepen elementor-repeater-item-cc596dc" href="#" target="_blank">
 					<span class="elementor-screen-only">Codepen</span>
-					<i class="fa fa-codepen"></i>				</a>
+					<i class="fab fa-codepen"></i>				</a>
 					</div>
 				</div>
 				</div>
@@ -1387,8 +1385,9 @@
 		</section>
 						</div>
 			</div>
-        </div>
-        @include('layouts.jsresources')
+		</div>
+@include('layouts.jsresources')
     </body>
-    @endsection
-
+@endsection
+<!-- Mirrored from kits.pixel-show.com/careerster/template-kit/home-1/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 22 Aug 2020 18:19:55 GMT -->
+</html>
