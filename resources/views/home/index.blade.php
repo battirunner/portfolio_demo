@@ -17,9 +17,9 @@
 						<div class="hfe-nav-menu hfe-layout-horizontal hfe-nav-menu-layout horizontal hfe-pointer__none" data-layout="horizontal">
 				<div class="hfe-nav-menu__toggle elementor-clickable">
 					<div class="hfe-nav-menu-icon">
-						<i aria-hidden="true" tabindex="0" class="fas fa-align-justify"></i>					</div>
+						<i aria-hidden="true" tabindex="0" class="fa fa-align-justify"></i>					</div>
 				</div>
-				<nav class="hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow" data-toggle-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;fas fa-align-justify&quot;&gt;&lt;/i&gt;" data-close-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;far fa-window-close&quot;&gt;&lt;/i&gt;" data-full-width="yes"><ul id="menu-1-5f7e49c" class="hfe-nav-menu"><li id="menu-item-441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children parent hfe-has-submenu hfe-creative-menu"><div class="hfe-has-submenu-container"><a href="https://kits.pixel-show.com/careerster/" href="https://kits.pixel-show.com/careerster/" class = "hfe-menu-item">Home<span class='hfe-menu-toggle sub-arrow hfe-menu-child-0'><i class='fa'></i></span></a></div>
+				<nav class="hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow" data-toggle-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;fa fa-align-justify&quot;&gt;&lt;/i&gt;" data-close-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;fa fa-window-close&quot;&gt;&lt;/i&gt;" data-full-width="yes"><ul id="menu-1-5f7e49c" class="hfe-nav-menu"><li id="menu-item-441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children parent hfe-has-submenu hfe-creative-menu"><div class="hfe-has-submenu-container"><a href="https://kits.pixel-show.com/careerster/" href="https://kits.pixel-show.com/careerster/" class = "hfe-menu-item">Home<span class='hfe-menu-toggle sub-arrow hfe-menu-child-0'><i class='fa'></i></span></a></div>
 <ul class="sub-menu">
 	<li id="menu-item-442" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item hfe-creative-menu"><a href="index.html" href="index.html" class = "hfe-sub-menu-item hfe-sub-menu-item-active">Home v1</a></li>
 	<li id="menu-item-443" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://kits.pixel-show.com/careerster/template-kit/home-2" href="https://kits.pixel-show.com/careerster/template-kit/home-2" class = "hfe-sub-menu-item">Home v2</a></li>
@@ -80,11 +80,11 @@
 				</div>
 				<div class="elementor-element elementor-element-7c1dc41a elementor-widget elementor-widget-heading" data-id="7c1dc41a" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-default">Bryan Wood</h1>		</div>
+			<h1 class="elementor-heading-title elementor-size-default">Afsana Jamal</h1>		</div>
 				</div>
 				<div class="elementor-element elementor-element-37d0c237 elementor-widget elementor-widget-text-editor" data-id="37d0c237" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Developer and Startup entrepreneur</p></div>
+					<div class="elementor-text-editor elementor-clearfix"><p>Web and Mobile App Developer</p></div>
 				</div>
 				</div>
 				<section class="elementor-element elementor-element-12c6b3e8 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="12c6b3e8" data-element_type="section">
@@ -112,7 +112,7 @@
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item" >
-										<span class="elementor-icon-list-text">25</span>
+										<span class="elementor-icon-list-text">24</span>
 									</li>
 						</ul>
 				</div>
@@ -148,7 +148,7 @@
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item" >
-										<span class="elementor-icon-list-text">Belgium, Brussels</span>
+										<span class="elementor-icon-list-text">Dhaka, Bangladesh</span>
 									</li>
 						</ul>
 				</div>
@@ -184,7 +184,7 @@
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item" >
-										<span class="elementor-icon-list-text">bryanwood@company.com</span>
+										<span class="elementor-icon-list-text">afsanajamalmumu@gmail.com</span>
 									</li>
 						</ul>
 				</div>
@@ -220,7 +220,7 @@
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item" >
-										<span class="elementor-icon-list-text">+1 256 254 84 56</span>
+										<span class="elementor-icon-list-text">+8801620900412</span>
 									</li>
 						</ul>
 				</div>
@@ -257,11 +257,11 @@
 				<div class="elementor-element elementor-element-4c3688e8 elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="4c3688e8" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<button class="elementor-button-link elementor-button elementor-size-sm" role="button" onclick="window.open('/assets/afsana.pdf')" >
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Download CV</span>
 		</span>
-					</a>
+			</button>
 		</div>
 				</div>
 				</div>
@@ -294,21 +294,22 @@
 				<div class="elementor-element elementor-element-320c8338 elementor-shape-circle elementor-widget elementor-widget-social-icons" data-id="320c8338" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-social-icons-wrapper">
-							<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-567f735" href="#" target="_blank">
+					<a href="https://www.linkedin.com/in/afsana-jamal/" class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-567f735" href="#" target="_blank">
 					<span class="elementor-screen-only">Linkedin</span>
 					<i class="fa fa-linkedin"></i>				</a>
-							<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-ac5bdd1" href="#" target="_blank">
+					<a href="https://www.facebook.com/afsanajamalmumu/" class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-ac5bdd1" href="#" target="_blank">
 					<span class="elementor-screen-only">Facebook</span>
 					<i class="fa fa-facebook"></i>				</a>
-							<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-3390259" href="#" target="_blank">
+							{{-- <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-3390259" href="#" target="_blank">
 					<span class="elementor-screen-only">Twitter</span>
-					<i class="fa fa-twitter"></i>				</a>
-							<a class="elementor-icon elementor-social-icon elementor-social-icon-github elementor-repeater-item-adbfe90" href="#" target="_blank">
+					<i class="fa fa-twitter"></i>				</a> --}}
+					<a href="https://join.skype.com/invite/zPn47En1eCLs" class="elementor-icon elementor-social-icon elementor-social-icon-codepen elementor-repeater-item-cc596dc" href="#" target="_blank">
+						<span class="elementor-screen-only">Skype</span>
+						<i class="fa fa-skype"></i>				</a>
+							<a href="https://github.com/afsanajamal" class="elementor-icon elementor-social-icon elementor-social-icon-github elementor-repeater-item-adbfe90" href="#" target="_blank">
 					<span class="elementor-screen-only">Github</span>
 					<i class="fa fa-github"></i>				</a>
-							<a class="elementor-icon elementor-social-icon elementor-social-icon-codepen elementor-repeater-item-cc596dc" href="#" target="_blank">
-					<span class="elementor-screen-only">Codepen</span>
-					<i class="fa fa-codepen"></i>				</a>
+					
 					</div>
 				</div>
 				</div>
@@ -342,7 +343,7 @@
 				</div>
 				<div class="elementor-element elementor-element-397cf440 elementor-widget elementor-widget-text-editor" data-id="397cf440" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Senior Web Developer specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including JavaScript, SQL, and C. Stng background in project management and customer relations.</p></div>
+					<div class="elementor-text-editor elementor-clearfix"><p style="font-size: 20px;font-weight: 500;" >Web App Developer working in front end and back end development. Familier with necessary stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including PHP, JavaScript, Java and SQL. Experience of developing Android Application and background in customer relations. <strong>Learn Japanese Language N3 Level. Seeking opportunity to working in Japanese IT industry. </strong> </p></div>
 				</div>
 				</div>
 						</div>
@@ -359,7 +360,7 @@
 					<div class="elementor-widget-wrap">
 				<div class="elementor-element elementor-element-cb85fa7 elementor-widget elementor-widget-progress" data-id="cb85fa7" data-element_type="widget" data-widget_type="progress.default">
 				<div class="elementor-widget-container">
-						<span class="elementor-title">WordPress</span>
+						<span class="elementor-title">PHP, Laravel</span>
 		
 		<div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="76" aria-valuetext="">
 			<div class="elementor-progress-bar" data-max="76">
@@ -381,7 +382,7 @@
 				</div>
 				<div class="elementor-element elementor-element-85c16ed elementor-widget elementor-widget-progress" data-id="85c16ed" data-element_type="widget" data-widget_type="progress.default">
 				<div class="elementor-widget-container">
-						<span class="elementor-title">Redux</span>
+						<span class="elementor-title">Android</span>
 		
 		<div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="94" aria-valuetext="">
 			<div class="elementor-progress-bar" data-max="94">
@@ -409,7 +410,7 @@
 				</div>
 				<div class="elementor-element elementor-element-4a677404 elementor-widget elementor-widget-progress" data-id="4a677404" data-element_type="widget" data-widget_type="progress.default">
 				<div class="elementor-widget-container">
-						<span class="elementor-title">Python</span>
+						<span class="elementor-title">Java</span>
 		
 		<div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="68" aria-valuetext="">
 			<div class="elementor-progress-bar" data-max="68">
@@ -420,7 +421,7 @@
 				</div>
 				<div class="elementor-element elementor-element-78ce41f elementor-widget elementor-widget-progress" data-id="78ce41f" data-element_type="widget" data-widget_type="progress.default">
 				<div class="elementor-widget-container">
-						<span class="elementor-title">Photoshop</span>
+						<span class="elementor-title">C,C++</span>
 		
 		<div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="95" aria-valuetext="">
 			<div class="elementor-progress-bar" data-max="95">
@@ -916,7 +917,7 @@
 						</div>
 			</div>
 		</section>
-				<section class="elementor-element elementor-element-30e8479c elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="30e8479c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				{{-- <section class="elementor-element elementor-element-30e8479c elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="30e8479c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
 				<div class="elementor-element elementor-element-3bf14c1c elementor-column elementor-col-100 elementor-top-column" data-id="3bf14c1c" data-element_type="column">
@@ -936,8 +937,8 @@
 		</div>
 						</div>
 			</div>
-		</section>
-				<section class="elementor-element elementor-element-ccb7b9c elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="ccb7b9c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		</section> --}}
+				{{-- <section class="elementor-element elementor-element-ccb7b9c elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="ccb7b9c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
 				<div class="elementor-element elementor-element-4f640fd elementor-column elementor-col-33 elementor-top-column" data-id="4f640fd" data-element_type="column">
@@ -1161,7 +1162,7 @@
 		</div>
 						</div>
 			</div>
-		</section>
+		</section> --}}
 				<section class="elementor-element elementor-element-21ba7471 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="21ba7471" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
@@ -1229,21 +1230,22 @@
 				<div class="elementor-element elementor-element-54246a11 elementor-shape-circle elementor-widget elementor-widget-social-icons" data-id="54246a11" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-social-icons-wrapper">
-							<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-567f735" href="#" target="_blank">
+							<a href="https://www.linkedin.com/in/afsana-jamal/" class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-567f735" href="#" target="_blank">
 					<span class="elementor-screen-only">Linkedin</span>
 					<i class="fa fa-linkedin"></i>				</a>
-							<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-ac5bdd1" href="#" target="_blank">
+					<a href="https://www.facebook.com/afsanajamalmumu/" class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-ac5bdd1" href="#" target="_blank">
 					<span class="elementor-screen-only">Facebook</span>
-					<i class="fa fa-facebook"></i>				</a>
-							<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-3390259" href="#" target="_blank">
+					<i class="fa fa-facebook"></i></a>
+					{{-- <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-3390259" href="#" target="_blank">
 					<span class="elementor-screen-only">Twitter</span>
-					<i class="fa fa-twitter"></i>				</a>
-							<a class="elementor-icon elementor-social-icon elementor-social-icon-github elementor-repeater-item-adbfe90" href="#" target="_blank">
+					<i class="fa fa-twitter"></i></a> --}}
+					<a href="https://join.skype.com/invite/zPn47En1eCLs" class="elementor-icon elementor-social-icon elementor-social-icon-codepen elementor-repeater-item-cc596dc" href="#" target="_blank">
+						<span class="elementor-screen-only">Skype</span>
+						<i class="fa fa-skype"></i>				</a>
+							<a href="https://github.com/afsanajamal" class="elementor-icon elementor-social-icon elementor-social-icon-github elementor-repeater-item-adbfe90" href="#" target="_blank">
 					<span class="elementor-screen-only">Github</span>
 					<i class="fa fa-github"></i>				</a>
-							<a class="elementor-icon elementor-social-icon elementor-social-icon-codepen elementor-repeater-item-cc596dc" href="#" target="_blank">
-					<span class="elementor-screen-only">Codepen</span>
-					<i class="fa fa-codepen"></i>				</a>
+						
 					</div>
 				</div>
 				</div>
@@ -1292,7 +1294,7 @@
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item" >
-										<span class="elementor-icon-list-text">Belgium, Brussels</span>
+										<span class="elementor-icon-list-text">Dhaka, Bangladesh</span>
 									</li>
 						</ul>
 				</div>
@@ -1328,7 +1330,7 @@
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item" >
-										<span class="elementor-icon-list-text">bryanwood@company.com</span>
+										<span class="elementor-icon-list-text">afsanajamalmumu@gmail.com</span>
 									</li>
 						</ul>
 				</div>
@@ -1364,7 +1366,7 @@
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item" >
-										<span class="elementor-icon-list-text">+1 256 254 84 56</span>
+										<span class="elementor-icon-list-text">+8801620900412</span>
 									</li>
 						</ul>
 				</div>
