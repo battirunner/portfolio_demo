@@ -5,7 +5,7 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 	<meta charset="UTF-8">
-		<title>Home 1 &#8211; Careerster</title>
+		<title>Afsana Jamal Mumu</title>
 {{-- <link rel='dns-prefetch' href='http://s.w.org/' /> --}}
 {{-- <link rel="alternate" type="application/rss+xml" title="Careerster &raquo; Feed" href="https://kits.pixel-show.com/careerster/feed/" /> --}}
 {{-- <link rel="alternate" type="application/rss+xml" title="Careerster &raquo; Comments Feed" href="https://kits.pixel-show.com/careerster/comments/feed/" /> --}}
