@@ -1,69 +1,7 @@
 @extends('layouts.layout')
 @section('contents')
 <body class="envato_tk_templates-template envato_tk_templates-template-elementor_canvas single single-envato_tk_templates postid-228 ehf-header ehf-template-hello-elementor ehf-stylesheet-hello-elementor elementor-default elementor-template-canvas elementor-kit-30 elementor-page elementor-page-228">
-			<header id="masthead" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
-			{{-- <p class="main-title bhf-hidden" itemprop="headline"><a href="https://kits.pixel-show.com/careerster" title="Careerster" rel="home">Careerster</a></p> --}}
-					<div data-elementor-type="wp-post" data-elementor-id="453" class="elementor elementor-453" data-elementor-settings="[]">
-			<div class="elementor-inner">
-				<div class="elementor-section-wrap">
-							<section class="elementor-element elementor-element-757cbf6 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="757cbf6" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-				<div class="elementor-row">
-				<div class="elementor-element elementor-element-cd93484 elementor-column elementor-col-50 elementor-top-column" data-id="cd93484" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-5f7e49c hfe-nav-menu__align-right elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-absolute hfe-submenu-icon-arrow hfe-submenu-animation-none hfe-nav-menu__breakpoint-tablet elementor-widget elementor-widget-navigation-menu" data-id="5f7e49c" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="navigation-menu.default">
-				<div class="elementor-widget-container">
-						<div class="hfe-nav-menu hfe-layout-horizontal hfe-nav-menu-layout horizontal hfe-pointer__none" data-layout="horizontal">
-				<div class="hfe-nav-menu__toggle elementor-clickable">
-					<div class="hfe-nav-menu-icon">
-						<i aria-hidden="true" tabindex="0" class="fa fa-align-justify"></i>					</div>
-				</div>
-				<nav class="hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow" data-toggle-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;fa fa-align-justify&quot;&gt;&lt;/i&gt;" data-close-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;fa fa-window-close&quot;&gt;&lt;/i&gt;" data-full-width="yes"><ul id="menu-1-5f7e49c" class="hfe-nav-menu"><li id="menu-item-441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children parent hfe-has-submenu hfe-creative-menu"><div class="hfe-has-submenu-container"><a href="https://kits.pixel-show.com/careerster/" href="https://kits.pixel-show.com/careerster/" class = "hfe-menu-item">Home<span class='hfe-menu-toggle sub-arrow hfe-menu-child-0'><i class='fa'></i></span></a></div>
-<ul class="sub-menu">
-	<li id="menu-item-442" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item hfe-creative-menu"><a href="index.html" href="index.html" class = "hfe-sub-menu-item hfe-sub-menu-item-active">Home v1</a></li>
-	<li id="menu-item-443" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://kits.pixel-show.com/careerster/template-kit/home-2" href="https://kits.pixel-show.com/careerster/template-kit/home-2" class = "hfe-sub-menu-item">Home v2</a></li>
-	<li id="menu-item-444" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://kits.pixel-show.com/careerster/template-kit/home-3" href="https://kits.pixel-show.com/careerster/template-kit/home-3" class = "hfe-sub-menu-item">Home v3</a></li>
-	<li id="menu-item-445" class="menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"><a href="https://kits.pixel-show.com/careerster/template-kit/home-4" href="https://kits.pixel-show.com/careerster/template-kit/home-4" class = "hfe-sub-menu-item">Home v4</a></li>
-</ul>
-</li>
-<li id="menu-item-449" class="menu-item menu-item-type-custom menu-item-object-custom parent hfe-creative-menu"><a href="https://kits.pixel-show.com/careerster/template-kit/portfolio/" href="https://kits.pixel-show.com/careerster/template-kit/portfolio/" class = "hfe-menu-item">Portfolio</a></li>
-<li id="menu-item-452" class="menu-item menu-item-type-custom menu-item-object-custom parent hfe-creative-menu"><a href="https://kits.pixel-show.com/careerster/template-kit/services/" href="https://kits.pixel-show.com/careerster/template-kit/services/" class = "hfe-menu-item">Services</a></li>
-<li id="menu-item-451" class="menu-item menu-item-type-custom menu-item-object-custom parent hfe-creative-menu"><a href="https://kits.pixel-show.com/careerster/template-kit/resume/" href="https://kits.pixel-show.com/careerster/template-kit/resume/" class = "hfe-menu-item">Resume</a></li>
-<li id="menu-item-450" class="menu-item menu-item-type-custom menu-item-object-custom parent hfe-creative-menu"><a href="https://kits.pixel-show.com/careerster/template-kit/pricing/" href="https://kits.pixel-show.com/careerster/template-kit/pricing/" class = "hfe-menu-item">Pricing</a></li>
-<li id="menu-item-447" class="menu-item menu-item-type-custom menu-item-object-custom parent hfe-creative-menu"><a href="https://kits.pixel-show.com/careerster/template-kit/about-me/" href="https://kits.pixel-show.com/careerster/template-kit/about-me/" class = "hfe-menu-item">About Me</a></li>
-<li id="menu-item-448" class="menu-item menu-item-type-custom menu-item-object-custom parent hfe-creative-menu"><a href="https://kits.pixel-show.com/careerster/template-kit/contacts/" href="https://kits.pixel-show.com/careerster/template-kit/contacts/" class = "hfe-menu-item">Contacts</a></li>
-</ul></nav>              
-			</div>
-					</div>
-				</div>
-						</div>
-			</div>
-		</div>
-				<div class="elementor-element elementor-element-7b83305 elementor-column elementor-col-50 elementor-top-column" data-id="7b83305" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-0a4f2cf elementor-align-right elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="0a4f2cf" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Contact Me</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-			</div>
-		</div>
-						</div>
-			</div>
-		</section>
-						</div>
-			</div>
-		</div>
-				</header>
+			@include('home.header')
 
 			<div data-elementor-type="wp-post" data-elementor-id="228" class="elementor elementor-228" data-elementor-settings="[]">
 			<div class="elementor-inner">
@@ -231,44 +169,44 @@
 						</div>
 			</div>
 		</section>
-				<section class="elementor-element elementor-element-7a45c4b8 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="7a45c4b8" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
+		<section class="elementor-element elementor-element-7a45c4b8 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="7a45c4b8" data-element_type="section">
+			<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
-				<div class="elementor-element elementor-element-70a933c9 elementor-column elementor-col-50 elementor-inner-column" data-id="70a933c9" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-65da54d5 elementor-tablet-align-right elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="65da54d5" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Hire Me</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
+					{{-- <div class="elementor-element elementor-element-70a933c9 elementor-column elementor-col-50 elementor-inner-column" data-id="70a933c9" data-element_type="column">
+						<div class="elementor-column-wrap  elementor-element-populated">
+							<div class="elementor-widget-wrap">
+								<div class="elementor-element elementor-element-65da54d5 elementor-tablet-align-right elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="65da54d5" data-element_type="widget" data-widget_type="button.default">
+									<div class="elementor-widget-container">
+										<div class="elementor-button-wrapper">
+											<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+												<span class="elementor-button-content-wrapper">
+													<span class="elementor-button-text">Download CV</span>
+												</span>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
-			</div>
-		</div>
-				<div class="elementor-element elementor-element-3e8af2f9 elementor-column elementor-col-50 elementor-inner-column" data-id="3e8af2f9" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-4c3688e8 elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="4c3688e8" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<button class="elementor-button-link elementor-button elementor-size-sm" role="button" onclick="window.open('/assets/afsana.pdf')" >
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Download CV</span>
-		</span>
-			</button>
-		</div>
-				</div>
-				</div>
+					</div> --}}
+					<div class="elementor-element elementor-element-3e8af2f9 elementor-column elementor-col-50 elementor-inner-column" data-id="3e8af2f9" data-element_type="column">
+						<div class="elementor-column-wrap  elementor-element-populated">
+							<div class="elementor-widget-wrap">
+								<div class="elementor-element elementor-element-4c3688e8 elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="4c3688e8" data-element_type="widget" data-widget_type="button.default">
+									<div class="elementor-widget-container">
+										<div class="elementor-button-wrapper">
+											<button class="elementor-button-link elementor-button elementor-size-sm" role="button" onclick="window.open('/assets/CV.pdf')" >
+												<span class="elementor-button-content-wrapper">
+													<span class="elementor-button-text">Download CV</span>
+												</span>
+											</button>
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
-			</div>
-		</div>
-						</div>
+					</div>
+				</div>
 			</div>
 		</section>
 						</div>
@@ -325,7 +263,7 @@
 						</div>
 			</div>
 		</section>
-				<section class="elementor-element elementor-element-6804ed94 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6804ed94" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+				<section class="elementor-element elementor-element-6804ed94 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" id="portfolio" data-id="6804ed94" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
 				<div class="elementor-element elementor-element-707a821a elementor-column elementor-col-100 elementor-top-column" data-id="707a821a" data-element_type="column">
@@ -442,22 +380,23 @@
 						</div>
 			</div>
 		</section>
-				<section class="elementor-element elementor-element-4d9b5415 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4d9b5415" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-				<div class="elementor-row">
-				<div class="elementor-element elementor-element-3fa88c55 elementor-column elementor-col-100 elementor-top-column" data-id="3fa88c55" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-65b1dfdc elementor-widget elementor-widget-heading" data-id="65b1dfdc" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Resume</h2>		</div>
-				</div>
+				<section class="elementor-element elementor-element-4d9b5415 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" id="resume" data-id="4d9b5415" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="elementor-container elementor-column-gap-default">
+						<div class="elementor-row">
+							<div class="elementor-element elementor-element-3fa88c55 elementor-column elementor-col-100 elementor-top-column" data-id="3fa88c55" data-element_type="column">
+								<div class="elementor-column-wrap  elementor-element-populated">
+									<div class="elementor-widget-wrap">
+										<div class="elementor-element elementor-element-65b1dfdc elementor-widget elementor-widget-heading" data-id="65b1dfdc" data-element_type="widget" data-widget_type="heading.default">
+											<div class="elementor-widget-container">
+												<h2 class="elementor-heading-title elementor-size-default">Resume</h2>		
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
-			</div>
-		</div>
-						</div>
-			</div>
-		</section>
+					</div>
+				</section>
 				<section class="elementor-element elementor-element-33179722 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="33179722" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
@@ -477,15 +416,15 @@
 				<div class="elementor-element elementor-element-5f9d0591 elementor-widget elementor-widget-image" data-id="5f9d0591" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-image">
-										<img width="554" height="228" src="/assets/images/cortex-min.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://kits.pixel-show.com/careerster/wp-content/uploads/sites/4/2020/03/cortex-min.jpg 554w, https://kits.pixel-show.com/careerster/wp-content/uploads/sites/4/2020/03/cortex-min-300x123.jpg 300w" sizes="(max-width: 554px) 100vw, 554px" />											</div>
-				</div>
+						<img width="554" height="228" src="/assets/images/logo1.png" class="attachment-full size-full" alt="" loading="lazy" srcset="" sizes="(max-width: 554px) 100vw, 554px" />											</div>
+					</div>
 				</div>
 				<div class="elementor-element elementor-element-7b894008 elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="7b894008" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
 			<a class="elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">2018 - Present</span>
+						<span class="elementor-button-text">September, 2020 - Present(Remote)</span>
 		</span>
 					</a>
 		</div>
@@ -493,16 +432,20 @@
 				</div>
 				<div class="elementor-element elementor-element-6d5a79e8 elementor-widget elementor-widget-heading" data-id="6d5a79e8" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">Art Director
+			<h4 class="elementor-heading-title elementor-size-default">Backend Web Developer
 </h4>		</div>
 				</div>
 				<div class="elementor-element elementor-element-74215966 elementor-widget elementor-widget-heading" data-id="74215966" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h6 class="elementor-heading-title elementor-size-default">Company Inc.</h6>		</div>
+			<h6 class="elementor-heading-title elementor-size-default">Future Junction</h6>		</div>
 				</div>
 				<div class="elementor-element elementor-element-c89c396 elementor-widget elementor-widget-text-editor" data-id="c89c396" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p></div>
+					<div class="elementor-text-editor elementor-clearfix">
+						<p>
+							Working in Backend using laravel and mysql. Implement database and application from scratch design
+							and also maintain code review and check. Collaborate with team and combined design and solution.
+						</p></div>
 				</div>
 				</div>
 						</div>
@@ -520,32 +463,37 @@
 				<div class="elementor-element elementor-element-7ba1c099 elementor-widget elementor-widget-image" data-id="7ba1c099" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-image">
-										<img width="200" height="75" src="/assets/images/upwards.jpg" class="attachment-full size-full" alt="" loading="lazy" />											</div>
+										<img width="200" height="75" src="/assets/images/logo2.png" class="attachment-full size-full" alt="" loading="lazy" />											</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-777e549 elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="777e549" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">2016 - 2018</span>
-		</span>
-					</a>
-		</div>
+						<a class="elementor-button elementor-size-sm" role="button">
+							<span class="elementor-button-content-wrapper">
+								<span class="elementor-button-text">January, 2020 - August,2020</span>
+							</span>
+						</a>
+					</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-7c7fd0fd elementor-widget elementor-widget-heading" data-id="7c7fd0fd" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">Front-End Developer
-</h4>		</div>
+				<h4 class="elementor-heading-title elementor-size-default">Junior Web Developer & Site Maintenance</h4>		</div>
 				</div>
 				<div class="elementor-element elementor-element-740572fc elementor-widget elementor-widget-heading" data-id="740572fc" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h6 class="elementor-heading-title elementor-size-default">Company Inc.</h6>		</div>
+			<h6 class="elementor-heading-title elementor-size-default">The Daily Ittefaq & Anannaya Magazine.</h6>		</div>
 				</div>
 				<div class="elementor-element elementor-element-5da8bb1c elementor-widget elementor-widget-text-editor" data-id="5da8bb1c" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p></div>
+					<div class="elementor-text-editor elementor-clearfix">
+						<p>
+							Front end, and Back end developer, Database designer. Maintain the site based on user feedback and checking site
+consistency and performance. Maintain the site from UX analysis and also backend
+optimization.
+						</p>
+					</div>
 				</div>
 				</div>
 						</div>
@@ -554,7 +502,7 @@
 						</div>
 			</div>
 		</section>
-				<section class="elementor-element elementor-element-6cb8053a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="6cb8053a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				{{-- <section class="elementor-element elementor-element-6cb8053a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="6cb8053a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
 				<div class="elementor-element elementor-element-76f7f059 elementor-column elementor-col-100 elementor-inner-column" data-id="76f7f059" data-element_type="column">
@@ -596,7 +544,7 @@
 		</div>
 						</div>
 			</div>
-		</section>
+		</section> --}}
 						</div>
 			</div>
 		</div>
@@ -618,7 +566,7 @@
 					<div class="elementor-button-wrapper">
 			<a class="elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">2012 - 2014</span>
+						<span class="elementor-button-text">April 2015 - December 2019</span>
 		</span>
 					</a>
 		</div>
@@ -626,16 +574,21 @@
 				</div>
 				<div class="elementor-element elementor-element-45ec1000 elementor-widget elementor-widget-heading" data-id="45ec1000" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">Web Design Course
+			<h4 class="elementor-heading-title elementor-size-default">BSc. in CSE
 </h4>		</div>
 				</div>
 				<div class="elementor-element elementor-element-1a2687ed elementor-widget elementor-widget-heading" data-id="1a2687ed" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h6 class="elementor-heading-title elementor-size-default">Paris</h6>		</div>
+			<h6 class="elementor-heading-title elementor-size-default">University of Liberal Arts Bangladesh</h6>		</div>
 				</div>
 				<div class="elementor-element elementor-element-68cf8074 elementor-widget elementor-widget-text-editor" data-id="68cf8074" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p></div>
+					<div class="elementor-text-editor elementor-clearfix">
+						<p>
+							Bachelor in Computer Science & Engineering, Completed course required for computer science and engineering. Some important of them are structured programming, 
+							Data Structure, Algorithm, Database, Software Engineering, Networking etc.  							
+						</p>
+					</div>
 				</div>
 				</div>
 						</div>
@@ -655,7 +608,7 @@
 					<div class="elementor-button-wrapper">
 			<a class="elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">2010 - 2012</span>
+						<span class="elementor-button-text">January 2020 - July 2020</span>
 		</span>
 					</a>
 		</div>
@@ -663,16 +616,16 @@
 				</div>
 				<div class="elementor-element elementor-element-553b59d4 elementor-widget elementor-widget-heading" data-id="553b59d4" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">Art University
+			<h4 class="elementor-heading-title elementor-size-default">Venturas Ltd. BD
 </h4>		</div>
 				</div>
 				<div class="elementor-element elementor-element-b60c607 elementor-widget elementor-widget-heading" data-id="b60c607" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h6 class="elementor-heading-title elementor-size-default">NYC</h6>		</div>
+			<h6 class="elementor-heading-title elementor-size-default">Japanese Language</h6>		</div>
 				</div>
 				<div class="elementor-element elementor-element-1b6a71c6 elementor-widget elementor-widget-text-editor" data-id="1b6a71c6" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p></div>
+					<div class="elementor-text-editor elementor-clearfix"><p>Learn Japanese Language upto <strong>N3 Level</strong> and business culture. Practice Japanese for purpose of working in Jpanese IT company and professional activity.</p></div>
 				</div>
 				</div>
 						</div>
@@ -692,7 +645,7 @@
 					<div class="elementor-button-wrapper">
 			<a class="elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">2008 - 2010</span>
+						<span class="elementor-button-text">03/2019 - 01/2020</span>
 		</span>
 					</a>
 		</div>
@@ -700,16 +653,24 @@
 				</div>
 				<div class="elementor-element elementor-element-18c82084 elementor-widget elementor-widget-heading" data-id="18c82084" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">Programming Course
+			<h4 class="elementor-heading-title elementor-size-default">Diploma certificate in Cisco Certified Network
+				Associate (CCNA)
+				
 </h4>		</div>
 				</div>
 				<div class="elementor-element elementor-element-25a579b1 elementor-widget elementor-widget-heading" data-id="25a579b1" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h6 class="elementor-heading-title elementor-size-default">Los Angeles</h6>		</div>
+			<h6 class="elementor-heading-title elementor-size-default">Bangladesh University of Engineering and Technology</h6>		</div>
 				</div>
 				<div class="elementor-element elementor-element-46ee94c9 elementor-widget elementor-widget-text-editor" data-id="46ee94c9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p></div>
+					<div class="elementor-text-editor elementor-clearfix">
+						<p>
+							It is a corporation that uses a combination of EBGP and PPP for WAN
+							connections. Provided by Bangladesh University of Engineering and
+							Technology.
+						</p>
+					</div>
 				</div>
 				</div>
 						</div>
@@ -718,50 +679,50 @@
 						</div>
 			</div>
 		</section>
-				<section class="elementor-element elementor-element-4fd0b8c5 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="4fd0b8c5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-				<div class="elementor-row">
-				<div class="elementor-element elementor-element-7368c1de elementor-column elementor-col-100 elementor-inner-column" data-id="7368c1de" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-1ecfdc76 elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="1ecfdc76" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">2005 - 2008</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-7e2e4e47 elementor-widget elementor-widget-heading" data-id="7e2e4e47" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">Programming Course
-</h4>		</div>
-				</div>
-				<div class="elementor-element elementor-element-459072a1 elementor-widget elementor-widget-heading" data-id="459072a1" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h6 class="elementor-heading-title elementor-size-default">London</h6>		</div>
-				</div>
-				<div class="elementor-element elementor-element-2be17a57 elementor-widget elementor-widget-text-editor" data-id="2be17a57" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p></div>
-				</div>
+				{{-- <section class="elementor-element elementor-element-4fd0b8c5 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="4fd0b8c5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+								<div class="elementor-container elementor-column-gap-default">
+						<div class="elementor-row">
+						<div class="elementor-element elementor-element-7368c1de elementor-column elementor-col-100 elementor-inner-column" data-id="7368c1de" data-element_type="column">
+					<div class="elementor-column-wrap  elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1ecfdc76 elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="1ecfdc76" data-element_type="widget" data-widget_type="button.default">
+						<div class="elementor-widget-container">
+							<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-size-sm" role="button">
+								<span class="elementor-button-content-wrapper">
+								<span class="elementor-button-text">2005 - 2008</span>
+				</span>
+							</a>
 				</div>
 						</div>
-			</div>
-		</div>
 						</div>
-			</div>
+						<div class="elementor-element elementor-element-7e2e4e47 elementor-widget elementor-widget-heading" data-id="7e2e4e47" data-element_type="widget" data-widget_type="heading.default">
+						<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Programming Course
+		</h4>		</div>
+						</div>
+						<div class="elementor-element elementor-element-459072a1 elementor-widget elementor-widget-heading" data-id="459072a1" data-element_type="widget" data-widget_type="heading.default">
+						<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">London</h6>		</div>
+						</div>
+						<div class="elementor-element elementor-element-2be17a57 elementor-widget elementor-widget-text-editor" data-id="2be17a57" data-element_type="widget" data-widget_type="text-editor.default">
+						<div class="elementor-widget-container">
+							<div class="elementor-text-editor elementor-clearfix"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p></div>
+						</div>
+						</div>
+								</div>
+					</div>
+				</div>
+								</div>
+					</div>
+				</section> --}}
+						</div>
+						</div>
+					</div>
+					</div>
+					</div>
 		</section>
-						</div>
-			</div>
-		</div>
-						</div>
-			</div>
-		</section>
-				<section class="elementor-element elementor-element-3ba5779f elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3ba5779f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				{{-- <section class="elementor-element elementor-element-3ba5779f elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3ba5779f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
 				<div class="elementor-element elementor-element-761973fb elementor-column elementor-col-33 elementor-top-column" data-id="761973fb" data-element_type="column">
@@ -804,7 +765,24 @@
 		</div>
 						</div>
 			</div>
-		</section>
+		</section> --}}
+				<section class="elementor-element elementor-element-4d9b5415 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" id="about-me" data-id="4d9b5415" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="elementor-container elementor-column-gap-default">
+						<div class="elementor-row">
+							<div class="elementor-element elementor-element-3fa88c55 elementor-column elementor-col-100 elementor-top-column" data-id="3fa88c55" data-element_type="column">
+								<div class="elementor-column-wrap  elementor-element-populated">
+									<div class="elementor-widget-wrap">
+										<div class="elementor-element elementor-element-65b1dfdc elementor-widget elementor-widget-heading" data-id="65b1dfdc" data-element_type="widget" data-widget_type="heading.default">
+											<div class="elementor-widget-container">
+												<h2 class="elementor-heading-title elementor-size-default">About Me</h2>		
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
 				<section class="elementor-element elementor-element-4f96bc24 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4f96bc24" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
@@ -840,10 +818,10 @@
 					<div class="elementor-counter">
 			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
-				<span class="elementor-counter-number" data-duration="2000" data-to-value="15" data-from-value="0" data-delimiter=",">0</span>
-				<span class="elementor-counter-number-suffix"></span>
+				<span class="elementor-counter-number" data-duration="1000" data-to-value="10" data-from-value="0" data-delimiter=",">0</span>
+				<span class="elementor-counter-number-suffix">+</span>
 			</div>
-							<div class="elementor-counter-title">Awards Won</div>
+							<div class="elementor-counter-title">Extra Curricular Activities</div>
 					</div>
 				</div>
 				</div>
@@ -882,10 +860,10 @@
 					<div class="elementor-counter">
 			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
-				<span class="elementor-counter-number" data-duration="2000" data-to-value="23" data-from-value="0" data-delimiter=",">0</span>
+				<span class="elementor-counter-number" data-duration="1000" data-to-value="6" data-from-value="0" data-delimiter=",">0</span>
 				<span class="elementor-counter-number-suffix"></span>
 			</div>
-							<div class="elementor-counter-title">Countries Visited</div>
+							<div class="elementor-counter-title">Event Organised</div>
 					</div>
 				</div>
 				</div>
@@ -908,7 +886,13 @@
 				</div>
 				<div class="elementor-element elementor-element-709dbedd elementor-widget elementor-widget-text-editor" data-id="709dbedd" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p></div>
+					<div class="elementor-text-editor elementor-clearfix">
+						<p> Self-motivated, positive, and hard-worker. I want to achieve my goal as a successful tech professional.
+							Like travel, sports like badminton, movies, art etc. Organised and volunteered in event like IT festival, Convocation etc.
+							Work as a Radio Jockey in operation, also host 3 different shows on mental health, Tech Talk, and Movie shows at a radio channel from the university.
+							Participation in NASA App Challenge Hackathon, an international hackathon for coders, scientists, designers, storytellers, makers, builders, technologists, and others in cities around the world, where teams engage with NASA’s free and open data to address real-world problems on Earth and in space.
+						</p>
+					</div>
 				</div>
 				</div>
 						</div>
@@ -1163,7 +1147,7 @@
 						</div>
 			</div>
 		</section> --}}
-				<section class="elementor-element elementor-element-21ba7471 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="21ba7471" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				{{-- <section class="elementor-element elementor-element-21ba7471 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="21ba7471" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
 				<div class="elementor-element elementor-element-1c8fd148 elementor-column elementor-col-100 elementor-top-column" data-id="1c8fd148" data-element_type="column">
@@ -1206,21 +1190,21 @@
 		</div>
 						</div>
 			</div>
-		</section>
-				<section class="elementor-element elementor-element-3bbb004a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3bbb004a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+		</section> --}}
+				<section class="elementor-element elementor-element-3bbb004a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" id="contact" data-id="3bbb004a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
-				<div class="elementor-row">
-				<div class="elementor-element elementor-element-cc83750 elementor-column elementor-col-50 elementor-top-column" data-id="cc83750" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-60959f73 elementor-widget elementor-widget-image" data-id="60959f73" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										{{-- <img width="800" height="684" src="/assets/images/a-portrait-of-caucasian-man-PWZQSFA-1024x876.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://kits.pixel-show.com/careerster/wp-content/uploads/sites/4/2020/03/a-portrait-of-caucasian-man-PWZQSFA-1024x876.jpg 1024w, https://kits.pixel-show.com/careerster/wp-content/uploads/sites/4/2020/03/a-portrait-of-caucasian-man-PWZQSFA-300x257.jpg 300w, https://kits.pixel-show.com/careerster/wp-content/uploads/sites/4/2020/03/a-portrait-of-caucasian-man-PWZQSFA-768x657.jpg 768w, https://kits.pixel-show.com/careerster/wp-content/uploads/sites/4/2020/03/a-portrait-of-caucasian-man-PWZQSFA-600x513.jpg 600w, https://kits.pixel-show.com/careerster/wp-content/uploads/sites/4/2020/03/a-portrait-of-caucasian-man-PWZQSFA.jpg 1092w" sizes="(max-width: 800px) 100vw, 800px" />											</div> --}}
-                						<img width="800" height="684" src="/assets/images/a-portrait-of-caucasian-man-PWZQSFA-1024x876.jpg" class="attachment-large size-large" alt="" loading="lazy" />											</div>
-                
-                                    </div>
-				</div>
+						<div class="elementor-row">
+						<div class="elementor-element elementor-element-cc83750 elementor-column elementor-col-50 elementor-top-column" data-id="cc83750" data-element_type="column">
+					<div class="elementor-column-wrap  elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-60959f73 elementor-widget elementor-widget-image" data-id="60959f73" data-element_type="widget" data-widget_type="image.default">
+						<div class="elementor-widget-container">
+							<div class="elementor-image">
+												{{-- <img width="800" height="684" src="/assets/images/a-portrait-of-caucasian-man-PWZQSFA-1024x876.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://kits.pixel-show.com/careerster/wp-content/uploads/sites/4/2020/03/a-portrait-of-caucasian-man-PWZQSFA-1024x876.jpg 1024w, https://kits.pixel-show.com/careerster/wp-content/uploads/sites/4/2020/03/a-portrait-of-caucasian-man-PWZQSFA-300x257.jpg 300w, https://kits.pixel-show.com/careerster/wp-content/uploads/sites/4/2020/03/a-portrait-of-caucasian-man-PWZQSFA-768x657.jpg 768w, https://kits.pixel-show.com/careerster/wp-content/uploads/sites/4/2020/03/a-portrait-of-caucasian-man-PWZQSFA-600x513.jpg 600w, https://kits.pixel-show.com/careerster/wp-content/uploads/sites/4/2020/03/a-portrait-of-caucasian-man-PWZQSFA.jpg 1092w" sizes="(max-width: 800px) 100vw, 800px" />											</div> --}}
+												<img width="800" height="684" src="/assets/images/a-portrait-of-caucasian-man-PWZQSFA-1024x876.jpg" class="attachment-large size-large" alt="" loading="lazy" />											</div>
+						
+											</div>
+						</div>
 				<section class="elementor-element elementor-element-630bb83a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="630bb83a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
@@ -1251,14 +1235,16 @@
 				</div>
 						</div>
 			</div>
-		</div>
+			</div>
 						</div>
 			</div>
 		</section>
 						</div>
 			</div>
 		</div>
-				<div class="elementor-element elementor-element-38c83b2 elementor-column elementor-col-50 elementor-top-column" data-id="38c83b2" data-element_type="column">
+		
+			
+		<div class="elementor-element elementor-element-38c83b2 elementor-column elementor-col-50 elementor-top-column" id="#contact" data-id="38c83b2" data-element_type="column">
 			<div class="elementor-column-wrap  elementor-element-populated">
 					<div class="elementor-widget-wrap">
 				<div class="elementor-element elementor-element-520968e9 elementor-widget elementor-widget-heading" data-id="520968e9" data-element_type="widget" data-widget_type="heading.default">
@@ -1301,7 +1287,7 @@
 				</div>
 						</div>
 			</div>
-		</div>
+			</div>
 						</div>
 			</div>
 		</section>
@@ -1379,7 +1365,7 @@
 		</section>
 				<div class="elementor-element elementor-element-20c41d00 elementor-widget elementor-widget-google_maps" data-id="20c41d00" data-element_type="widget" data-widget_type="google_maps.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-custom-embed"><iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Brussel&amp;t=m&amp;z=16&amp;output=embed&amp;iwloc=near" aria-label="Brussel"></iframe></div>		</div>
+			<div class="elementor-custom-embed"><iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Dhaka&amp;t=m&amp;z=16&amp;output=embed&amp;iwloc=near" aria-label="Brussel"></iframe></div>		</div>
 				</div>
 						</div>
 			</div>
@@ -1390,7 +1376,13 @@
 						</div>
 			</div>
         </div>
-        @include('layouts.jsresources')
+		@include('layouts.jsresources')
+		@section('extraJS')
+		
+			
+		
+		@endsection
+		
     </body>
     @endsection
 
